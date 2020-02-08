@@ -15,4 +15,5 @@ $(document).ready(function () {
       },
       simpleSheet: true
     });
+window.addEventListener('DOMContentLoaded', init)
   });
