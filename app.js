@@ -1,4 +1,5 @@
 $(document).ready(function () {
+alert("working");
     Tabletop.init({
       key: 'https://docs.google.com/spreadsheets/d/1JLB4jGeuGZp77X7uF_GCHeApazGM4kUMj-VUh2gilRw/edit?usp=sharing',
       callback: function(data, tabletop) {
